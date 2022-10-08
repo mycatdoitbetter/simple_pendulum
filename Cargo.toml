@@ -1,0 +1,8 @@
+[package]
+name = "simple_pendulum"
+version = "0.1.0"
+authors = ["mycatdoitbetter <andre.castelo@fleye.com>"]
+edition = "2021"
+
+[dependencies]
+nannou = "0.18"
